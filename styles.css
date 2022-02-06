@@ -1,0 +1,12 @@
+body {
+  background-color: green;
+}
+
+.container {
+  max-width: 1350px;
+  max-height: 1350px;
+}
+
+.car {
+  width: 200px;
+}
